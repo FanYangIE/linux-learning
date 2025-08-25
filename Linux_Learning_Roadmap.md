@@ -1,10 +1,10 @@
 # Linux Learning Roadmap ✅
 
 ## 🟢 Phase 1: Basic Operations
-- [ ] **Basic Commands** — ls, cd, pwd, mkdir, rm, cp, mv (Able to operate files and directories fluently)
-- [ ] **File Viewing** — cat, less, head, tail (Quickly view file contents)
-- [ ] **Compression & Extraction** — tar, gzip, bzip2, unzip (Compress and extract files)
-- [ ] **Environment Variables** — PATH, export, .bashrc (Understand PATH and edit environment variables)
+- [x] **Basic Commands** — ls, cd, pwd, mkdir, rm, cp, mv (Able to operate files and directories fluently)
+- [x] **File Viewing** — cat, less, head, tail (Quickly view file contents)
+- [x] **Compression & Extraction** — tar, gzip, bzip2, unzip (Compress and extract files)
+- [x] **Environment Variables** — PATH, export, .bashrc (Understand PATH and edit environment variables)
 
 ---
 
