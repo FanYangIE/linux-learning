@@ -16,21 +16,21 @@
 
 ## 🟠 Phase 3: System & Processes
 - [x] **Process Management** — ps, top, htop, kill, jobs, bg, fg (View and manage processes)
-- [ ] **System Monitoring** — df, du, free, uptime, vmstat, iostat (Check CPU, memory, and disk usage)
-- [ ] **Disk Management** — mount, umount, fdisk, df, du (Mount/unmount partitions, check disk usage)
+- [x] **System Monitoring** — df, du, free, uptime, vmstat, iostat (Check CPU, memory, and disk usage)
+- [x] **Disk Management** — mount, umount, fdisk, df, du (Mount/unmount partitions, check disk usage)
 
 ---
 
 ## 🔵 Phase 4: Text Processing & File Searching
-- [ ] **File Searching** — find, locate, which (Quickly locate files and commands)
-- [ ] **Text Processing** — grep, awk, sed, cut, sort, uniq, tr (Analyze logs, extract data)
+- [x] **File Searching** — find, locate, which (Quickly locate files and commands)
+- [x] **Text Processing** — grep, awk, sed, cut, sort, uniq, tr (Analyze logs, extract data)
 
 ---
 
 ## 🟣 Phase 5: Services & Networking
-- [ ] **Package Management** — apt, yum, dnf, brew (Install, update, and remove software packages)
-- [ ] **Service Management** — systemctl, service (Start/stop/restart services)
-- [ ] **Networking Basics** — ping, curl, wget, netstat, ss (Test connectivity, check open ports)
+- [x] **Package Management** — apt, yum, dnf, brew (Install, update, and remove software packages)
+- [x] **Service Management** — systemctl, service (Start/stop/restart services)
+- [x] **Networking Basics** — ping, curl, wget, netstat, ss (Test connectivity, check open ports)
 
 ---
 
