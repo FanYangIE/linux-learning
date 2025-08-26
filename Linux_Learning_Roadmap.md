@@ -9,13 +9,13 @@
 ---
 
 ## 🟡 Phase 2: Users & Permissions
-- [ ] **Permissions Management** — chmod, chown, umask (Modify file permissions, understand rwx)
-- [ ] **User Management** — useradd, userdel, passwd, groups (Add/delete users and groups, change passwords)
+- [x] **Permissions Management** — chmod, chown, umask (Modify file permissions, understand rwx)
+- [x] **User Management** — useradd, userdel, passwd, groups (Add/delete users and groups, change passwords)
 
 ---
 
 ## 🟠 Phase 3: System & Processes
-- [ ] **Process Management** — ps, top, htop, kill, jobs, bg, fg (View and manage processes)
+- [x] **Process Management** — ps, top, htop, kill, jobs, bg, fg (View and manage processes)
 - [ ] **System Monitoring** — df, du, free, uptime, vmstat, iostat (Check CPU, memory, and disk usage)
 - [ ] **Disk Management** — mount, umount, fdisk, df, du (Mount/unmount partitions, check disk usage)
 
