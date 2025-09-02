@@ -35,8 +35,8 @@
 ---
 
 ## 🔴 Phase 6: Automation & Ops Essentials
-- [ ] **Shell Scripting** — Variables, conditionals, loops, functions (Write practical shell scripts)
-- [ ] **Scheduled Tasks** — cron, at (Set up automated tasks)
+- [x] **Shell Scripting** — Variables, conditionals, loops, functions (Write practical shell scripts)
+- [x] **Scheduled Tasks** — cron, at (Set up automated tasks)
 - [ ] **Log Management** — /var/log, journalctl (View and analyze logs, troubleshoot issues)
 
 ---
