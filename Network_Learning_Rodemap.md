@@ -14,13 +14,13 @@
 
 This week's goal is to build a high-level understanding of network communication models and to master how devices obtain addresses and find each other using domain names.
 
-* [ ] **1. Understand Layered Network Models (OSI & TCP/IP)**
-    * [ ] **Theoretical Learning:**
-        * [ ] Learn why layered models are necessary (e.g., to reduce complexity, for standardization).
-        * [ ] **OSI Model (7 Layers):** Understand the function and purpose of each layer (Physical, Data Link, Network, Transport, Session, Presentation, Application).
-        * [ ] **TCP/IP Model (4/5 Layers):** Understand its relationship to the OSI model and how it functions in the real world (Link/Network Interface, Internet, Transport, Application).
-        * [ ] **Core Concept:** Grasp the process of data encapsulation and de-encapsulation—how headers are added and removed as data moves through the layers.
-    * [ ] **Practice & Tools:**
+* [x] **1. Understand Layered Network Models (OSI & TCP/IP)**
+    * [x] **Theoretical Learning:**
+        * [x] Learn why layered models are necessary (e.g., to reduce complexity, for standardization).
+        * [x] **OSI Model (7 Layers):** Understand the function and purpose of each layer (Physical, Data Link, Network, Transport, Session, Presentation, Application).
+        * [x] **TCP/IP Model (4/5 Layers):** Understand its relationship to the OSI model and how it functions in the real world (Link/Network Interface, Internet, Transport, Application).
+        * [x] **Core Concept:** Grasp the process of data encapsulation and de-encapsulation—how headers are added and removed as data moves through the layers.
+    * [x] **Practice & Tools:**
         * [ ] **First Look at Wireshark:** Install Wireshark, capture a simple web browsing session (an HTTP request), and observe the packet structure at different layers (e.g., Ethernet frame, IP packet, TCP segment).
 
 * [ ] **2. IP Addressing and Subnetting**
