@@ -27,7 +27,7 @@ This week's goal is to build a high-level understanding of network communication
     * [ ] **Theoretical Learning:**
         * [x] **IPv4 Addresses:** Understand the 32-bit address structure, Classful addressing (A/B/C/D/E), and private IP ranges (e.g., `10.0.0.0/8`, `172.16.0.0/12`, `192.168.0.0/16`).
         * [x] **Subnet Mask:** Understand its role in distinguishing the network portion from the host portion of an address.
-        * [ ] **CIDR (Classless Inter-Domain Routing):** Learn the `a.b.c.d/n` notation, which is the modern, more flexible standard.
+        * [x] **CIDR (Classless Inter-Domain Routing):** Learn the `a.b.c.d/n` notation, which is the modern, more flexible standard.
         * [ ] **Subnetting:** Learn how to divide a large network block into smaller sub-networks to improve address efficiency and security.
         * [ ] **IPv6 (Introduction):** Understand the need for IPv6, the format of its 128-bit addresses, and its key differences from IPv4.
     * [ ] **Practice & Tools:**
