@@ -28,11 +28,11 @@ This week's goal is to build a high-level understanding of network communication
         * [x] **IPv4 Addresses:** Understand the 32-bit address structure, Classful addressing (A/B/C/D/E), and private IP ranges (e.g., `10.0.0.0/8`, `172.16.0.0/12`, `192.168.0.0/16`).
         * [x] **Subnet Mask:** Understand its role in distinguishing the network portion from the host portion of an address.
         * [x] **CIDR (Classless Inter-Domain Routing):** Learn the `a.b.c.d/n` notation, which is the modern, more flexible standard.
-        * [ ] **Subnetting:** Learn how to divide a large network block into smaller sub-networks to improve address efficiency and security.
-        * [ ] **IPv6 (Introduction):** Understand the need for IPv6, the format of its 128-bit addresses, and its key differences from IPv4.
-    * [ ] **Practice & Tools:**
-        * [ ] Use `ipconfig` (Windows) or `ifconfig`/`ip addr` (Linux/macOS) on your computer to check your IP address, subnet mask, and default gateway.
-        * [ ] Use an online subnet calculator to practice planning and calculating subnets.
+        * [x] **Subnetting:** Learn how to divide a large network block into smaller sub-networks to improve address efficiency and security.
+        * [x] **IPv6 (Introduction):** Understand the need for IPv6, the format of its 128-bit addresses, and its key differences from IPv4.
+    * [x] **Practice & Tools:**
+        * [x] Use `ipconfig` (Windows) or `ifconfig`/`ip addr` (Linux/macOS) on your computer to check your IP address, subnet mask, and default gateway.
+        * [x] Use an online subnet calculator to practice planning and calculating subnets.
 
 * [ ] **3. Core Network Services (DNS & DHCP)**
     * [ ] **Theoretical Learning:**
