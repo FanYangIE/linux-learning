@@ -34,15 +34,15 @@ This week's goal is to build a high-level understanding of network communication
         * [x] Use `ipconfig` (Windows) or `ifconfig`/`ip addr` (Linux/macOS) on your computer to check your IP address, subnet mask, and default gateway.
         * [x] Use an online subnet calculator to practice planning and calculating subnets.
 
-* [ ] **3. Core Network Services (DNS & DHCP)**
+* [x] **3. Core Network Services (DNS & DHCP)**
     * [x] **Theoretical Learning:**
         * [x] **DHCP (Dynamic Host Configuration Protocol):** Understand its workflow (Discover, Offer, Request, Acknowledge - DORA) and how it automatically assigns IP addresses, subnet masks, default gateways, and DNS servers to devices.
         * [x] **DNS (Domain Name System):** Understand its role as the "phonebook of the internet," translating human-readable domain names (like `www.google.com`) into machine-readable IP addresses.
         * [x] Learn about basic DNS record types (A, AAAA, CNAME, MX, NS).
         * [x] Understand the hierarchical structure of DNS (Root -> TLD -> Authoritative servers) and the recursive query process.
-    * [ ] **Practice & Tools:**
+    * [x] **Practice & Tools:**
         * [x] Use `nslookup` or `dig` to query the IP address of a domain (e.g., `dig google.com`).
-        * [ ] Use Wireshark again to capture the DNS query process and observe the DNS request and response packets.
+        * [x] Use Wireshark again to capture the DNS query process and observe the DNS request and response packets.
 
 ### Week 2: Protocols, Security & Troubleshooting
 
