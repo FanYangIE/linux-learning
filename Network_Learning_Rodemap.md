@@ -23,8 +23,8 @@ This week's goal is to build a high-level understanding of network communication
     * [x] **Practice & Tools:**
         * [x] **First Look at Wireshark:** Install Wireshark, capture a simple web browsing session (an HTTP request), and observe the packet structure at different layers (e.g., Ethernet frame, IP packet, TCP segment).
 
-* [ ] **2. IP Addressing and Subnetting**
-    * [ ] **Theoretical Learning:**
+* [x] **2. IP Addressing and Subnetting**
+    * [x] **Theoretical Learning:**
         * [x] **IPv4 Addresses:** Understand the 32-bit address structure, Classful addressing (A/B/C/D/E), and private IP ranges (e.g., `10.0.0.0/8`, `172.16.0.0/12`, `192.168.0.0/16`).
         * [x] **Subnet Mask:** Understand its role in distinguishing the network portion from the host portion of an address.
         * [x] **CIDR (Classless Inter-Domain Routing):** Learn the `a.b.c.d/n` notation, which is the modern, more flexible standard.
@@ -49,12 +49,12 @@ This week's goal is to build a high-level understanding of network communication
 The goal for this week is to delve into the specific protocols that applications rely on, and to learn how to protect your network and diagnose problems when they occur.
 
 * [ ] **4. Common Network Protocols**
-    * [ ] **Theoretical Learning:**
-        * [ ] **HTTP (Hypertext Transfer Protocol):** Understand its stateless nature, request/response model, common methods (GET, POST, PUT, DELETE), and status codes (200, 301, 404, 500).
-        * [ ] **HTTPS (Hypertext Transfer Protocol Secure):** Understand its difference from HTTP and how SSL/TLS provides encryption, authentication, and integrity for communication.
-        * [ ] **FTP (File Transfer Protocol):** Learn its basic working principle, including the command channel and data channel.
-        * [ ] **SSH (Secure Shell):** As one of the most important tools for a DevOps engineer, understand how it provides secure remote login and command execution.
-        * [ ] **TCP vs. UDP:** Understand the key differences between these two transport layer protocols (connection-oriented vs. connectionless, reliable vs. unreliable) and their respective use cases (HTTP/FTP use TCP; DNS/video streaming often use UDP).
+    * [x] **Theoretical Learning:**
+        * [x] **HTTP (Hypertext Transfer Protocol):** Understand its stateless nature, request/response model, common methods (GET, POST, PUT, DELETE), and status codes (200, 301, 404, 500).
+        * [x] **HTTPS (Hypertext Transfer Protocol Secure):** Understand its difference from HTTP and how SSL/TLS provides encryption, authentication, and integrity for communication.
+        * [x] **FTP (File Transfer Protocol):** Learn its basic working principle, including the command channel and data channel.
+        * [x] **SSH (Secure Shell):** As one of the most important tools for a DevOps engineer, understand how it provides secure remote login and command execution.
+        * [x] **TCP vs. UDP:** Understand the key differences between these two transport layer protocols (connection-oriented vs. connectionless, reliable vs. unreliable) and their respective use cases (HTTP/FTP use TCP; DNS/video streaming often use UDP).
     * [ ] **Practice & Tools:**
         * [ ] Use your browser's developer tools (F12) and inspect the Network tab to observe HTTP/HTTPS requests and responses while loading a webpage.
         * [ ] Use the `ssh` command to remotely connect to a server (if you don't have one, consider a free-tier cloud instance or a local VM).
